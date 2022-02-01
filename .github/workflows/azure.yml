@@ -22,7 +22,7 @@ jobs:
     - name: Test with pytest
       run: |
         make test
-    - nam: Format Code
+    - name: Format Code
       run: |
         make format
   
